@@ -26,6 +26,7 @@ public class QuangTien_4958654_BaiTapJava
         // TODO code application logic here
         ICalculate calculator = new CasioCalculator();
         System.out.println("7+ 8 = " + calculator.cong(7, 8));
+        System.out.println("9 x 3 = " + calculator.nhan(9, 3));
     }
     
 }
